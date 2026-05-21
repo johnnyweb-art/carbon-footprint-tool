@@ -95,5 +95,5 @@ https://github.com/johnnyweb-art/carbon-footprint-tool
 - MOEA 中小企業營運升級顧問計畫、TTQS 訓練品質評核、USR 計畫實務應用啟發
 
 ---
-
 **最後更新 Last Updated**:2026-05-20
+**部署狀態 Deployment Status**:🟢 線上運作中
