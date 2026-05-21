@@ -3,6 +3,7 @@
 
 > 基於 U.S. EPA USEEIO Supply Chain GHG Emission Factors v1.3.0 的支出基礎環境投入產出（Spend-based EEIO）碳足跡估算工具
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-success.svg)](https://carbon-footprint-johnny.netlify.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Methodology](https://img.shields.io/badge/Methodology-Spend--based%20EEIO-green.svg)]()
 [![Base Year](https://img.shields.io/badge/Base%20Year-USD%202022-blue.svg)]()
@@ -51,7 +52,9 @@
 ## 使用方式 · Usage
 
 ### 線上使用(推薦)
-直接造訪 [部署網址](即將上線)即可使用,無需安裝任何軟體。
+🚀 **[立即開啟工具 · Launch Tool](https://carbon-footprint-johnny.netlify.app)**
+
+直接造訪上方連結即可使用,無需安裝任何軟體。
 
 ### 本機使用
 1. 下載 `index.html`
